@@ -1,10 +1,5 @@
 package poo;
 
-/**
- *
- * @author xavicodeer
- */
-
 import java.util.Scanner;
 
 public class Ejercicio6 {
